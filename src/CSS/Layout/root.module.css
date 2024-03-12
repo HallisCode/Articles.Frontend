@@ -1,0 +1,23 @@
+.centerScreen
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+}
+
+.navigationContainer
+{
+    height: 100%;
+    width: 12%;
+    background-color: chocolate;
+}
+
+.contentContainer
+{
+    height: 100%;
+    width: 45%;
+    background-color: darkcyan;
+}

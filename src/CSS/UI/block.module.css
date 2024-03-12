@@ -1,0 +1,9 @@
+
+.block 
+{
+    width: auto;
+    height: auto;
+    background-color: var(--panel-color);
+    border-radius: var( --border-raduis);
+    padding: 16px;
+}
